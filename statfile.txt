@@ -1,0 +1,545 @@
+André Onana: 152.60
+Benjamin van Lee: 0.00
+Norbert Alblas: 0.00
+Kostas Lamprou: 0.00
+Joël Veltman: 183.00
+Matthijs de Ligt: 202.25
+Maximilian Wöbe: 133.75
+Davinson Sánche: 155.75
+Daley Sinkgraven: 26.50
+Nick Viergever: 98.25
+Luis Orejuela: 71.00
+Nicolás Tagliaf: 42.50
+Mitchell Dijks: 260.00
+Leon Bergsma: 326.00
+Rasmus Kristense: 0.00
+Mitchel Bakker: 240.00
+Noa Lang: 175.00
+Donny van de Bee: 127.00
+Hakim Ziyech: 194.50
+Carel Eiting: 93.25
+Robert Muric: 34.25
+Lasse Schöne: 22.25
+Frenkie de Jong: 136.50
+Kenneth Vermeer: 0.00
+Justin Bijlow: 22.00
+Brad Jones: 143.80
+Ramón ten Hove: 0.00
+Elber Evora: 63.75
+Jordie Van Leeuw: 80.25
+Miquel Nelom: 118.25
+Lutsharel Geertr: 116.75
+Bart Nieuwkoop: 135.25
+Sven van Beek: 95.25
+Jeremiah St. Jus: 127.00
+Ridgeciano Haps: 103.00
+Jan-Arie van der: 64.25
+Boyd Reith: 62.00
+Noah Lewis: 200.00
+Kevin Diks: 256.00
+Renato Tapia: 115.00
+Eric Botteghin: 222.00
+Tyrell Malacia: 0.00
+Karim El Ahmadi: 0.00
+Tonny Vilhena: 55.25
+Sofyan Amrabat: 205.25
+Jens Toornstra: 208.50
+Emil Hansson: 147.00
+Jordy Wehrmann: 60.00
+Michiel Kramer: 275.25
+Jean-Paul Boëti: 69.75
+Nicolai Jørgens: 40.75
+Sam Larsson: 5.25
+Roman Weidenfell: 42.00
+Dominik Reimann: 0.00
+Roman Bürki: 126.60
+Dan-Axel Zagadou: 77.50
+Neven Subotic: 91.00
+Marc Bartra: 91.50
+Raphael Guerreir: 61.50
+Jeremy Toljan: 106.75
+Manuel Akanji: 42.00
+Jan-Niklas Beste: 0.00
+Sokratis: 172.25
+Lukasz Piszczek: 131.50
+Marcel Schmelzer: 108.25
+Ömer Toprak: 151.25
+Erik Durm: 0.00
+Jadon Sancho: 130.00
+Nuri Sahin: 141.00
+Mario Götze: 0.00
+Sebastian Rode: 122.00
+Mahmoud Dahoud: 93.00
+André Schürrle: 183.00
+Christian Pulisi: 148.00
+Shinji Kagawa: 129.00
+Gonzalo Castro: 132.00
+Julian Weigl: 127.50
+Andriy Yarmolenk: 43.00
+Marco Reus: 21.50
+Alexander Isak: 123.25
+Maximilian Phili: 4.00
+Jacob Bruun Lars: 75.00
+Manuel Neuer: 47.40
+Tom Starke: 42.00
+Sven Ulreich: 118.60
+Christian Früch: 0.00
+Leo Weinkauf: 146.75
+Ron-Thorben Hoff: 153.25
+Niklas Tarnat: 137.00
+Resul Türkkales: 138.25
+Theo Rieg: 54.75
+Alexander Nitzl: 125.00
+Derrick Kohn: 0.00
+Niklas Süle: 138.75
+Mats Hummels: 11.75
+Javi Martínez: 114.00
+Rafinha: 164.00
+Juan Bernat: 164.00
+Lukas Mai: 183.00
+Jérôme Boateng: 127.00
+Felix Götze: 176.00
+David Alaba: 156.00
+Marco Friedl: 0.00
+Maximilian Franz: 212.00
+Raphael Obermair: 0.00
+Marin Pudic: 74.00
+Thiago Alcántar: 0.00
+Franck Ribéry: 0.00
+Arjen Robben: 265.00
+James Rodríguez: 67.25
+Meritan Shabani: 208.75
+Sebastian Rudy: 161.50
+Arturo Vidal: 0.00
+Jan Oblak: 185.40
+Axel Werner: 0.00
+Miguel San Romá: 145.00
+Alex Dos Santos: 130.25
+Diego Godín: 117.50
+Filipe Luís: 95.25
+Stefan Savic: 140.75
+Sime Vrsaljko: 67.50
+Lucas Hernández: 146.25
+Juanfran: 0.00
+José Giménez: 187.00
+Sergi González: 212.00
+Carlos Isaac: 197.00
+Antonio Montoro: 121.00
+Thomas Partey: 31.00
+Koke: 158.00
+Saúl Ñíguez: 41.00
+Yannick Carrasco: 47.00
+Augusto Fernánd: 0.00
+Gabi: 264.00
+Nicolás Gaitán: 54.25
+Vitolo: 105.25
+Juan Moreno: 224.50
+Keidi Bare: 78.75
+Roberto Olabe: 155.50
+Sergio Rico: 121.20
+David Soria: 73.00
+Juan Soriano: 0.00
+Lionel Carole: 56.75
+Sébastien Corch: 77.25
+Simon Kjaer: 132.50
+Clément Lenglet: 182.50
+Daniel Carriço: 38.25
+Guilherme Arana: 28.00
+Sergio Escudero: 137.50
+Miguel Layún: 80.75
+Nico Pareja: 37.00
+Gabriel Mercado: 119.00
+Roque Mesa: 7.00
+Walter Montoya: 23.00
+Éver Banega: 198.00
+Ganso: 65.00
+Joaquín Correa: 127.00
+Johannes Geis: 78.00
+Michael Krohn-De: 34.00
+Guido Pizarro: 130.00
+Steven N'Zonzi: 152.00
+Jesús Navas: 153.00
+Pablo Sarabia: 214.00
+Franco Vázquez: 174.00
+Borja Lasso: 5.00
+Wissam Ben Yedde: 168.50
+Luis Muriel: 169.00
+Sandro Ramírez: 33.50
+Nolito: 157.75
+Carlos Fernánde: 0.00
+Kevin Trapp: 96.60
+Alphonse Areola: 148.40
+Remy Descamps: 0.00
+Sebastien Cibois: 0.00
+Alec Georgen: 0.00
+Kevin Rimane: 153.00
+Thiago Silva: 134.75
+Presnel Kimpembe: 137.75
+Marquinhos: 135.25
+Thomas Meunier: 142.50
+Yuri: 124.75
+Layvin Kurzawa: 164.25
+Dani Alves: 0.00
+Lorenzo Callegar: 151.00
+Stanley N'Soki: 0.00
+Yacine Adli: 99.00
+Marco Verratti: 227.00
+Gonçalo Guedes: 179.00
+Thiago Motta: 49.00
+Ángel Di María: 148.00
+Giovani Lo Celso: 0.00
+Lass Diarra: 187.00
+Grzegorz Krychow: 89.00
+Hatem Ben Arfa: 193.00
+Julian Draxler: 139.00
+Christopher Nkun: 287.75
+Adrien Rabiot: 271.75
+Javier Pastore: 229.00
+Álvaro Fernánd: 0.00
+Danijel Subasic: 129.80
+Diego Benaglio: 54.00
+Seydou Sy: 27.00
+Loic Badiashile: 0.00
+Dinis Almeida: 0.00
+Raphael Diarra: 0.00
+Terence Kongolo: 74.25
+Jemerson: 178.50
+Jorge: 135.00
+Djibril Sidibe: 181.75
+Julien Serrano: 0.00
+Pierre-Daniel Ng: 96.50
+Andrea Raggi: 207.75
+Kamil Glik: 40.25
+Kevin N'Doram: 84.25
+Almamy Touré: 233.00
+Romain Faivre: 143.00
+Fabinho: 200.00
+Rachid Ghezzal: 134.00
+João Moutinho: 28.00
+Youri Tielemans: 253.00
+Soualiho Meité: 20.00
+Rony Lopes: 186.00
+Gabriel Boschili: 38.00
+Thomas Lemar: 86.25
+Adama Traoré: 210.00
+Lacina Traoré: 117.00
+Falcao: 40.00
+Stevan Jovetic: 161.75
+Guido Carrillo: 112.00
+Keita: 0.00
+Adama Diakhaby: 0.00
+Gianluigi Buffon: 109.80
+Carlo Pinsoglio: 0.00
+Wojciech Szczesn: 94.00
+Mattia Del Faver: 0.00
+Leonardo Loria: 0.00
+Mattia De Scigli: 91.00
+Giorgio Chiellin: 160.50
+Medhi Benatia: 120.25
+Alex Sandro: 154.25
+Andrea Barzagli: 130.00
+Benedikt Höwede: 12.25
+Daniele Rugani: 101.50
+Stephan Lichtste: 136.75
+Leandro Fernande: 226.00
+Miralem Pjanic: 178.00
+Sami Khedira: 146.00
+Juan Cuadrado: 69.00
+Claudio Marchisi: 187.00
+Douglas Costa: 175.00
+Blaise Matuidi: 43.00
+Marko Pjaca: 112.00
+Kwadwo Asamoah: 61.00
+Stefano Sturaro: 92.00
+Rodrigo Bentancu: 0.00
+Leonardo Merio: 251.25
+Ferdinando Del S: 114.00
+Simone Muratore: 282.50
+Fabrizio Caligar: 180.75
+Gonzalo Higuaín: 128.50
+Alisson: 169.80
+Andrea Romagnoli: 0.00
+Bogdan Lobont: 0.00
+Lukasz Skorupski: 0.00
+Luca Pellegrini: 0.00
+Jonathan Silva: 0.00
+Juan Jesus: 103.75
+Aleksandar Kolar: 282.75
+Elio Capradossi: 0.00
+Héctor Moreno: 47.50
+Federico Fazio: 204.50
+Abdullahi Nura: 0.00
+Bruno Peres: 95.25
+Rick Karsdorp: 8.00
+Stefano Ciavatti: 177.50
+Kostas Manolas: 0.00
+Leandro Castán: 215.00
+Devid Eugene Bou: 174.00
+Radja Nainggolan: 176.00
+Kevin Strootman: 125.00
+Lorenzo Pellegri: 159.00
+Daniele De Rossi: 81.00
+Cengiz Ünder: 200.00
+Maxime Gonalons: 125.00
+Alessandro Flore: 191.50
+Gerson: 250.75
+Lorenzo Valeau: 90.00
+Mirko Antonucci: 89.25
+Alessio Riccardi: 37.25
+Andrea Marcucci: 206.75
+Thomas Strakosha: 149.40
+Federico Marchet: 0.00
+Guido Guerrieri: 0.00
+Ivan Vargic: 0.00
+Stefan de Vrij: 215.75
+Patric: 62.75
+Jordan Lukaku: 142.50
+Dusan Basta: 60.50
+Wallace: 67.50
+Bastos: 135.75
+Martín Cáceres: 22.75
+Stefan Radu: 168.00
+Luiz Felipe: 73.25
+Nicolò Armini: 2.00
+Mauricio: 184.50
+Adam Marusic: 211.00
+Lucas Leiva: 117.00
+Felipe Anderson: 0.00
+Luca Crecco: 207.00
+Marco Parolo: 283.00
+Luis Alberto: 186.00
+Senad Lulic: 237.00
+Sergej Milinkovi: 0.00
+Alessio Miceli: 0.00
+Bruno Jordao: 4.00
+Christopher Ikon: 64.00
+Davide Di Gennar: 0.00
+Alessandro Murgi: 106.75
+Abukar Mohamed: 0.00
+Nani: 10.50
+Filip Djordjevic: 161.75
+Ricardo Kishna: 298.75
+Keita: 117.50
+Ciro Immobile: 4.00
+Felipe Caicedo: 0.00
+Simone Palombi: 0.00
+Pedro Neto: 90.75
+Brayan Perea: 0.00
+Rafael Cabral: 0.00
+Luigi Sepe: 26.00
+José Reina: 147.60
+Mário Rui: 120.75
+Christian Maggio: 74.50
+Micheal Scarf: 0.00
+Hrvoje Milic: 46.25
+Vlad Chiriches: 168.25
+Elseid Hysaj: 203.00
+Kalidou Koulibal: 113.75
+Faouzi Ghoulam: 153.75
+Raúl Albiol: 24.00
+Lorenzo Tonelli: 0.00
+Leandrinho: 216.00
+Allan: 0.00
+Zinedine Machach: 200.00
+Jorginho: 24.00
+Emanuele Giacche: 248.00
+Marek Hamsik: 202.00
+Piotr Zielinski: 125.00
+Marko Rog: 37.00
+Adam Ounas: 104.00
+Amadou Diawara: 278.25
+José Callejón: 284.50
+Dries Mertens: 287.50
+Lorenzo Insigne: 0.00
+Alessio Zerbin: 61.25
+Michele Cerofoli: 160.40
+Simone Ghidotti: 0.00
+Marco Sportiello: 126.25
+Bartlomiej Drago: 211.50
+Vincent Laurini: 113.50
+Cristiano Biragh: 60.75
+Vitor Hugo: 181.25
+Nikola Milenkovi: 39.00
+Davide Astori: 170.75
+Maximiliano Oliv: 72.25
+Germán Pezzella: 188.00
+Luca Ranieri: 64.00
+Riccardo Baroni: 58.00
+Petko Hristov: 85.00
+Bruno Gaspar: 107.00
+Joshua Pérez: 0.00
+Milan Badelj: 0.00
+Carlos Sánchez: 233.00
+Bryan Dabo: 37.00
+Riccardo Saponar: 202.00
+Valentin Eysseri: 0.00
+Ianis Hagi: 149.00
+Matías Fernánd: 0.00
+Jordan Veretout: 0.00
+Sebastián Crist: 223.25
+Marco Benassi: 212.75
+Andrés Schetino: 9.25
+Fabio Maistro: 115.00
+Gil Dias: 151.50
+Mile Svilar: 62.40
+Julio César: 68.00
+Paulo Lopes: 0.00
+Bruno Varela: 99.60
+Fábio Duarte: 18.00
+Lisandro López: 131.50
+Alejandro Grimal: 95.00
+Luisão: 10.00
+Douglas: 0.00
+Branimir Kalaica: 49.25
+Eliseu: 126.50
+Jardel: 96.00
+Rúben Dias: 0.00
+Aurélio Buta: 114.00
+Lubomir Fejsa: 56.00
+Filipe Augusto: 72.00
+Andreas Samaris: 79.00
+André Horta: 95.00
+Filip Krovinovic: 163.00
+Franco Cervi: 65.00
+Rafa: 0.00
+André Carrillo: 0.00
+Erdal Rakip: 167.00
+André Almeida: 12.00
+Martin Chrien: 47.00
+Keaton Parks: 29.00
+Diogo Gonçalves: 144.00
+João Carvalho: 259.50
+Raúl Jiménez: 4.00
+Jonas: 101.75
+Gabriel: 97.00
+Kostas Mitroglou: 82.75
+Haris Seferovic: 152.25
+Andrija Zivkovic: 206.00
+Eduardo Salvio: 0.00
+Pizzi: 0.00
+Óscar Benítez: 0.00
+Mykyta Shevchenk: 0.00
+Andriy Pyatov: 91.00
+Yevgen Grytsenko: 0.00
+Oleh Kudryk: 0.00
+Mykola Matvyenko: 0.00
+Bogdan Butko: 55.25
+Sergey Krivtsov: 14.00
+Davit Khotcholav: 26.00
+Maksim Malyshev: 0.00
+Ivan Ordets: 59.50
+Ismaily: 68.50
+Darijo Srna: 29.25
+Yaroslav Rakitsk: 57.50
+Márcio Azevedo: 5.00
+Dodô: 0.00
+Sergiy Bolbat: 0.00
+Dmytro Grechyshk: 0.00
+Taras Stepanenko: 59.00
+Fred: 67.00
+Dentinho: 24.00
+Bernard: 80.00
+Marlos: 75.00
+Alan Patrick: 25.00
+Vyacheslav Tanko: 0.00
+Ivan Petryak: 0.00
+Yuri Glushchuk: 0.00
+Oleksandr Pikhal: 0.00
+Viktor Kovalenko: 22.00
+Olarenwaju Kayod: 0.00
+Taison: 51.75
+Facundo Ferreyra: 57.75
+Oleksandr Zubkov: 2.00
+Artem Dudik: 0.00
+Gustavo Blanco: 0.00
+Tomás Vaclik: 69.60
+Mirko Salvi: 0.00
+Germano Vailati: 0.00
+Antonio Signori: 0.00
+Omar Gaber: 48.00
+Leo Lacroix: 72.00
+Michael Lang: 70.50
+Marek Suchy: 56.75
+Éder Balanta: 40.50
+Blás Riveros: 42.00
+Raoul Petretta: 0.00
+Pedro Pacheco: 66.00
+Yves Kaiser: 65.00
+Noah Okafor: 23.00
+Martin Liechti: 11.00
+Luca Zuffi: 38.00
+Samuele Campo: 57.00
+Renato Steffen: 62.00
+Valentin Stocker: 0.00
+Alexander Franss: 0.00
+Geoffroy Serey D: 25.00
+Fabian Frei: 56.00
+Mohamed Elyounou: 0.00
+Dereck Kutesa: 24.25
+Dominik Schmid: 0.00
+Kevin Bua: 61.00
+Taulant Xhaka: 12.00
+Davide Callà: 0.00
+Ricky van Wolfsw: 3.00
+Andraz Sporar: 0.00
+Craig Gordon: 0.00
+Dorus de Vries: 38.00
+Scott Bain: 0.00
+Ross Doohan: 0.00
+Conor Hazard: 0.00
+Jack Hendry: 31.25
+Jozo Simunovic: 0.00
+Cristian Gamboa: 0.00
+Dedryck Boyata: 27.00
+Mikael Lustig: 0.00
+Erik Sviatchenko: 0.00
+Marvin Compper: 0.00
+Jamie McCart: 0.00
+Ewan Henderson: 19.00
+Anthony Ralston: 13.00
+Kieran Tierney: 0.00
+Charly Musonda: 0.00
+Kerr McInroy: 39.00
+Nir Bitton: 5.00
+Patrick Roberts: 0.00
+Scott Brown: 0.00
+Scott Sinclair: 6.00
+Stuart Armstrong: 37.00
+Jonny Hayes: 0.00
+Tomas Rogic: 53.00
+Olivier Ntcham: 16.00
+Kundai Benyu: 0.00
+Kristoffer Ajer: 20.00
+Callum McGregor: 0.00
+Liam Henderson: 7.50
+Eboue Kouassi: 4.00
+Leigh Griffiths: 9.25
+Moussa Dembele: 0.00
+Odsonne Edouard: 0.00
+James Forrest: 0.00
+Fabio Coltorti: 0.00
+Philipp Köhn: 0.00
+Yvon Mvogo: 62.00
+Péter Gulácsi: 119.80
+Bernardo: 109.00
+Willi Orban: 175.75
+Dayotchanculle U: 166.75
+Ibrahima Konaté: 78.25
+Lukas Klosterman: 159.50
+Benno Schmitz: 11.50
+Marcel Halstenbe: 132.75
+Marcel Sabitzer: 174.00
+Naby Keita: 187.00
+Stefan Ilsanker: 117.00
+Dominik Kaiser: 44.00
+Konrad Laimer: 118.00
+Diego Demme: 167.00
+Kevin Kampl: 179.00
+Yussuf Poulsen: 157.50
+Emil Forsberg: 145.25
+Timo Werner: 207.75
+Bruma: 167.00
+Ademola Lookman: 40.00
+Nicolas-Gerrit K: 0.00
+Jean-Kévin Augu: 150.50
+Federico Palacio: 0.00

@@ -1,0 +1,1142 @@
+André Onana --- andre-onana
+Benjamin van Lee --- benjamin-van-leer
+Norbert Alblas --- norbert-alblas
+Kostas Lamprou --- kostas-lamprou
+Joël Veltman --- joel-veltman
+Matthijs de Ligt --- matthijs-de-ligt
+Maximilian Wöbe --- maximilian-wober
+Davinson Sánche --- davinson-sanchez
+Daley Sinkgraven --- daley-sinkgraven
+Nick Viergever --- nick-viergever
+Luis Orejuela --- mitchell-dijks
+Nicolás Tagliaf --- rasmus-nissen-kristensen
+Mitchell Dijks --- donny-van-de-beek
+Leon Bergsma --- hakim-ziyech
+Rasmus Kristense --- robert-muric
+Mitchel Bakker --- lasse-schone
+Noa Lang --- frenkie-de-jong
+Donny van de Bee --- siem-de-jong
+Hakim Ziyech --- klaas-jan-huntelaar
+Carel Eiting --- amin-younes
+Robert Muric --- vaclav-cerny
+Lasse Schöne --- mateo-cassierra
+Frenkie de Jong --- kasper-dolberg
+Kenneth Vermeer --- kenneth-vermeer
+Justin Bijlow --- justin-bijlow
+Brad Jones --- brad-jones
+Ramón ten Hove --- ramon-ten-hove
+Elber Evora --- miquel-nelom
+Jordie Van Leeuw --- bart-nieuwkoop
+Miquel Nelom --- sven-van-beek
+Lutsharel Geertr --- jerry-st.-juste
+Bart Nieuwkoop --- ridgeciano-haps
+Sven van Beek --- jan-arie-van-der-heijden
+Jeremiah St. Jus --- kevin-diks
+Ridgeciano Haps --- renato-tapia
+Jan-Arie van der --- eric-botteghin
+Boyd Reith --- tyrell-malacia
+Noah Lewis --- karim-el-ahmadi
+Kevin Diks --- tonny-vilhena
+Renato Tapia --- sofyan-amrabat
+Eric Botteghin --- jens-toornstra
+Tyrell Malacia --- emil-hansson
+Karim El Ahmadi --- jordy-wehrmann
+Tonny Vilhena --- michiel-kramer
+Sofyan Amrabat --- jean-paul-boetius
+Jens Toornstra --- nicolai-jorgensen
+Emil Hansson --- sam-larsson
+Jordy Wehrmann --- bilal-basacikoglu
+Michiel Kramer --- steven-berghuis
+Jean-Paul Boëti --- robin-van-persie
+Nicolai Jørgens --- dylan-vente
+Sam Larsson --- cheick-toure-toure
+Roman Weidenfell --- roman-weidenfeller
+Dominik Reimann --- dominik-reimann
+Roman Bürki --- roman-burki
+Dan-Axel Zagadou --- dan-axel-zagadou
+Neven Subotic --- neven-subotic
+Marc Bartra --- marc-bartra
+Raphael Guerreir --- raphael-guerreiro
+Jeremy Toljan --- jeremy-toljan
+Manuel Akanji --- manuel-akanji
+Jan-Niklas Beste --- jan-niklas-beste
+Sokratis --- sokratis
+Lukasz Piszczek --- lukasz-piszczek
+Marcel Schmelzer --- marcel-schmelzer
+Ömer Toprak --- omer-toprak
+Erik Durm --- erik-durm
+Jadon Sancho --- nuri-sahin
+Nuri Sahin --- mario-gotze
+Mario Götze --- sebastian-rode
+Sebastian Rode --- mahmoud-dahoud
+Mahmoud Dahoud --- andre-schurrle
+André Schürrle --- christian-pulisic
+Christian Pulisi --- shinji-kagawa
+Shinji Kagawa --- gonzalo-castro-castro
+Gonzalo Castro --- julian-weigl
+Julian Weigl --- andriy-yarmolenko
+Andriy Yarmolenk --- marco-reus
+Marco Reus --- alexander-isak
+Alexander Isak --- maximilian-philipp
+Maximilian Phili --- jacob-bruun-larsen
+Jacob Bruun Lars --- michy-batshuayi
+Manuel Neuer --- manuel-neuer
+Tom Starke --- tom-starke
+Sven Ulreich --- sven-ulreich
+Christian Früch --- christian-fruchtl
+Leo Weinkauf --- niklas-sule
+Ron-Thorben Hoff --- mats-hummels
+Niklas Tarnat --- javi-martinez
+Resul Türkkales --- rafinha
+Theo Rieg --- juan-bernat
+Alexander Nitzl --- jerome-boateng
+Derrick Kohn --- felix-gotze
+Niklas Süle --- david-alaba
+Mats Hummels --- marco-friedl
+Javi Martínez --- thiago-alcantara
+Rafinha --- franck-ribery
+Juan Bernat --- arjen-robben
+Lukas Mai --- james-rodriguez
+Jérôme Boateng --- sebastian-rudy
+Felix Götze --- arturo-vidal
+David Alaba --- corentin-tolisso
+Marco Friedl --- niklas-dorsch
+Maximilian Franz --- joshua-kimmich
+Raphael Obermair --- timothy-tillman
+Marin Pudic --- renato-sanches
+Thiago Alcántar --- fabian-benko
+Franck Ribéry --- mario-crnicki
+Arjen Robben --- robert-lewandowski
+James Rodríguez --- sandro-wagner
+Meritan Shabani --- thomas-muller
+Sebastian Rudy --- kingsley-coman
+Arturo Vidal --- milos-pantovic
+Jan Oblak --- jan-oblak
+Axel Werner --- axel-werner
+Miguel San Romá --- diego-godin
+Alex Dos Santos --- filipe-luis
+Diego Godín --- stefan-savic
+Filipe Luís --- sime-vrsaljko
+Stefan Savic --- lucas-hernandez
+Sime Vrsaljko --- juanfran-torres-belen
+Lucas Hernández --- gimenez
+Juanfran --- sergi
+José Giménez --- thomas-partey
+Sergi González --- koke
+Carlos Isaac --- saul-niguez
+Antonio Montoro --- yannick-carrasco
+Thomas Partey --- augusto-fernandez
+Koke --- gabi
+Saúl Ñíguez --- nicolas-gaitan
+Yannick Carrasco --- vitolo
+Augusto Fernánd --- juan-moreno
+Gabi --- antoine-griezmann
+Nicolás Gaitán --- luciano-vietto
+Vitolo --- fernando-torres
+Juan Moreno --- angel-correa
+Keidi Bare --- diego-costa
+Roberto Olabe --- kevin-gameiro
+Sergio Rico --- sergio-rico
+David Soria --- david-soria
+Juan Soriano --- juan-soriano
+Lionel Carole --- lionel-carole
+Sébastien Corch --- sebastien-corchia
+Simon Kjaer --- simon-kjaer
+Clément Lenglet --- clement-lenglet
+Daniel Carriço --- daniel-carrico
+Guilherme Arana --- guilherme-arana
+Sergio Escudero --- sergio-escudero
+Miguel Layún --- miguel-layun
+Nico Pareja --- nico-pareja
+Gabriel Mercado --- gabriel-mercado
+Roque Mesa --- roque
+Walter Montoya --- walter-montoya
+Éver Banega --- ever-banega
+Ganso --- ganso
+Joaquín Correa --- joaquin-correa
+Johannes Geis --- johannes-geis
+Michael Krohn-De --- michael-krohn-dehli
+Guido Pizarro --- guido-pizarro
+Steven N'Zonzi --- steven-nzonzi
+Jesús Navas --- jesus-navas
+Pablo Sarabia --- pablo-sarabia
+Franco Vázquez --- franco-vazquez
+Borja Lasso --- borja-lasso
+Wissam Ben Yedde --- wissam-ben-yedder
+Luis Muriel --- luis-muriel
+Sandro Ramírez --- sandro-ramirez
+Nolito --- nolito
+Carlos Fernánde --- carlos-fernandez
+Kevin Trapp --- kevin-trapp
+Alphonse Areola --- alphonse-areola
+Remy Descamps --- remy-descamps
+Sebastien Cibois --- alec-georgen
+Alec Georgen --- kevin-rimane
+Kevin Rimane --- thiago-silva
+Thiago Silva --- presnel-kimpembe
+Presnel Kimpembe --- marquinhos
+Marquinhos --- thomas-meunier
+Thomas Meunier --- yuri-berchiche-izeta
+Yuri --- layvin-kurzawa
+Layvin Kurzawa --- dani-alves
+Dani Alves --- lorenzo-callegari
+Lorenzo Callegar --- marco-verratti
+Stanley N'Soki --- goncalo-guedes
+Yacine Adli --- thiago-motta
+Marco Verratti --- angel-di-maria
+Gonçalo Guedes --- giovani-lo-celso
+Thiago Motta --- lass-diarra
+Ángel Di María --- grzegorz-krychowiak
+Giovani Lo Celso --- hatem-ben-arfa
+Lass Diarra --- julian-draxler
+Grzegorz Krychow --- christopher-nkunku
+Hatem Ben Arfa --- adrien-rabiot
+Julian Draxler --- javier-pastore
+Christopher Nkun --- edinson-cavani
+Adrien Rabiot --- neymar
+Javier Pastore --- kylian-mbappe-lottin
+Álvaro Fernánd --- alvaro-fernandez-fernandez
+Danijel Subasic --- danijel-subasic
+Diego Benaglio --- diego-benaglio
+Seydou Sy --- seydou-sy
+Loic Badiashile --- loic-badiashile
+Dinis Almeida --- dinis-almeida
+Raphael Diarra --- raphael-diarra
+Terence Kongolo --- terence-kongolo
+Jemerson --- jemerson
+Jorge --- jorge
+Djibril Sidibe --- djibril-sidibe
+Julien Serrano --- pierre-daniel-nguinda-ndiffon
+Pierre-Daniel Ng --- andrea-raggi
+Andrea Raggi --- kamil-glik
+Kamil Glik --- kevin-ndoram
+Kevin N'Doram --- almamy-toure
+Almamy Touré --- fabinho-tavares
+Romain Faivre --- rachid-ghezzal
+Fabinho --- joao-moutinho
+Rachid Ghezzal --- youri-tielemans
+João Moutinho --- soualiho-meite
+Youri Tielemans --- rony-lopes
+Soualiho Meité --- boschilia
+Rony Lopes --- thomas-lemar
+Gabriel Boschili --- adama-traore-traore
+Thomas Lemar --- lacina-traore
+Adama Traoré --- falcao
+Lacina Traoré --- stevan-jovetic
+Falcao --- guido-carrillo
+Stevan Jovetic --- keita
+Guido Carrillo --- adama-diakhaby
+Keita --- jordi-mboula
+Adama Diakhaby --- moussa-sylla
+Gianluigi Buffon --- gianluigi-buffon
+Carlo Pinsoglio --- carlo-pinsoglio
+Wojciech Szczesn --- wojciech-szczesny
+Mattia Del Faver --- mattia-del-favero
+Leonardo Loria --- leonardo-loria
+Mattia De Scigli --- mattia-de-sciglio
+Giorgio Chiellin --- giorgio-chiellini
+Medhi Benatia --- medhi-benatia
+Alex Sandro --- alex-sandro
+Andrea Barzagli --- andrea-barzagli
+Benedikt Höwede --- benedikt-howedes
+Daniele Rugani --- daniele-rugani
+Stephan Lichtste --- stephan-lichtsteiner
+Leandro Fernande --- miralem-pjanic
+Miralem Pjanic --- sami-khedira
+Sami Khedira --- juan-cuadrado
+Juan Cuadrado --- claudio-marchisio
+Claudio Marchisi --- douglas-costa
+Douglas Costa --- blaise-matuidi
+Blaise Matuidi --- marko-pjaca
+Marko Pjaca --- kwadwo-asamoah
+Kwadwo Asamoah --- stefano-sturaro
+Stefano Sturaro --- rodrigo-bentancur
+Rodrigo Bentancu --- ferdinando-del-sole
+Leonardo Merio --- gonzalo-higuain
+Ferdinando Del S --- moise-kean
+Simone Muratore --- paulo-dybala
+Fabrizio Caligar --- mario-mandzukic
+Gonzalo Higuaín --- federico-bernardeschi
+Alisson --- alisson
+Andrea Romagnoli --- andrea-romagnoli
+Bogdan Lobont --- bogdan-lobont
+Lukasz Skorupski --- lukasz-skorupski
+Luca Pellegrini --- luca-pellegrini
+Jonathan Silva --- jonathan-silva
+Juan Jesus --- juan-jesus
+Aleksandar Kolar --- aleksandar-kolarov
+Elio Capradossi --- elio-capradossi
+Héctor Moreno --- hector-moreno
+Federico Fazio --- federico-fazio
+Abdullahi Nura --- abdullahi-nura
+Bruno Peres --- bruno-peres
+Rick Karsdorp --- rick-karsdorp
+Stefano Ciavatti --- kostas-manolas
+Kostas Manolas --- leandro-castan
+Leandro Castán --- radja-nainggolan
+Devid Eugene Bou --- kevin-strootman
+Radja Nainggolan --- lorenzo-pellegrini
+Kevin Strootman --- daniele-de-rossi
+Lorenzo Pellegri --- cengiz-under
+Daniele De Rossi --- maxime-gonalons
+Cengiz Ünder --- alessandro-florenzi
+Maxime Gonalons --- gerson-santos-da-silva
+Alessandro Flore --- diego-perotti
+Gerson --- edin-dzeko
+Lorenzo Valeau --- patrik-schick
+Mirko Antonucci --- gregoire-defrel
+Alessio Riccardi --- marco-tumminello
+Andrea Marcucci --- stephan-el-shaarawy
+Thomas Strakosha --- thomas-strakosha
+Federico Marchet --- federico-marchetti
+Guido Guerrieri --- guido-guerrieri
+Ivan Vargic --- ivan-vargic
+Stefan de Vrij --- stefan-de-vrij
+Patric --- patric
+Jordan Lukaku --- jordan-lukaku
+Dusan Basta --- dusan-basta
+Wallace --- wallace-fortuna-dos-santos
+Bastos --- bastos
+Martín Cáceres --- martin-caceres
+Stefan Radu --- stefan-radu
+Luiz Felipe --- luiz-felipe-ramos-marchi
+Nicolò Armini --- mauricio-dos-santos-nascimento
+Mauricio --- adam-marusic
+Adam Marusic --- lucas-leiva
+Lucas Leiva --- felipe-anderson
+Felipe Anderson --- luca-crecco
+Luca Crecco --- marco-parolo
+Marco Parolo --- luis-alberto
+Luis Alberto --- senad-lulic
+Senad Lulic --- sergej-milinkovic-savic
+Sergej Milinkovi --- bruno-jordao
+Alessio Miceli --- christopher-oikonomidis
+Bruno Jordao --- davide-di-gennaro
+Christopher Ikon --- alessandro-murgia
+Davide Di Gennar --- abukar-mohamed
+Alessandro Murgi --- nani
+Abukar Mohamed --- filip-djordjevic
+Nani --- ricardo-kishna
+Filip Djordjevic --- keita
+Ricardo Kishna --- ciro-immobile
+Keita --- felipe-caicedo
+Ciro Immobile --- simone-palombi
+Felipe Caicedo --- pedro-neto
+Simone Palombi --- brayan-perea
+Pedro Neto --- cristiano-lombardi
+Brayan Perea --- alessandro-rossi
+Rafael Cabral --- rafael-cabral
+Luigi Sepe --- luigi-sepe
+José Reina --- jose-reina
+Mário Rui --- mario-rui
+Christian Maggio --- christian-maggio
+Micheal Scarf --- hrvoje-milic
+Hrvoje Milic --- vlad-chiriches
+Vlad Chiriches --- elseid-hysaj
+Elseid Hysaj --- kalidou-koulibaly
+Kalidou Koulibal --- faouzi-ghoulam
+Faouzi Ghoulam --- raul-albiol
+Raúl Albiol --- lorenzo-tonelli
+Lorenzo Tonelli --- leandrinho-do-nascimento
+Leandrinho --- allan
+Allan --- zinedine-machach
+Zinedine Machach --- jorginho
+Jorginho --- emanuele-giaccherini
+Emanuele Giacche --- marek-hamsik
+Marek Hamsik --- piotr-zielinski
+Piotr Zielinski --- marko-rog
+Marko Rog --- adam-ounas
+Adam Ounas --- amadou-diawara
+Amadou Diawara --- jose-callejon
+José Callejón --- dries-mertens
+Dries Mertens --- lorenzo-insigne
+Lorenzo Insigne --- alessio-zerbin
+Alessio Zerbin --- arkadiusz-milik
+Michele Cerofoli --- marco-sportiello
+Simone Ghidotti --- bartlomiej-dragowski
+Marco Sportiello --- vincent-laurini
+Bartlomiej Drago --- cristiano-biraghi
+Vincent Laurini --- vitor-hugo-franchescoli-de-souza
+Cristiano Biragh --- nikola-milenkovic
+Vitor Hugo --- davide-astori
+Nikola Milenkovi --- maximiliano-olivera
+Davide Astori --- german-pezzella
+Maximiliano Oliv --- bruno-gaspar
+Germán Pezzella --- milan-badelj
+Luca Ranieri --- carlos-sanchez
+Riccardo Baroni --- bryan-dabo
+Petko Hristov --- riccardo-saponara
+Bruno Gaspar --- valentin-eysseric
+Joshua Pérez --- ianis-hagi
+Milan Badelj --- matias-fernandez
+Carlos Sánchez --- jordan-veretout
+Bryan Dabo --- sebastian-cristoforo
+Riccardo Saponar --- marco-benassi
+Valentin Eysseri --- andres-schetino
+Ianis Hagi --- gil-dias
+Matías Fernánd --- jaime-baez
+Jordan Veretout --- ante-rebic
+Sebastián Crist --- giovanni-simeone
+Marco Benassi --- federico-chiesa
+Andrés Schetino --- simone-lo-faso
+Fabio Maistro --- khouma-babacar
+Gil Dias --- cyril-thereau
+Mile Svilar --- mile-svilar
+Julio César --- julio-cesar
+Paulo Lopes --- paulo-lopes
+Bruno Varela --- bruno-varela
+Fábio Duarte --- lisandro-lopez-lopez
+Lisandro López --- alejandro-grimaldo
+Alejandro Grimal --- luisao
+Luisão --- douglas-pereira-dos-santos
+Douglas --- branimir-kalaica
+Branimir Kalaica --- eliseu
+Eliseu --- jardel
+Jardel --- ruben-dias
+Rúben Dias --- aurelio-buta
+Aurélio Buta --- lubomir-fejsa
+Lubomir Fejsa --- filipe-augusto
+Filipe Augusto --- andreas-samaris
+Andreas Samaris --- andre-horta
+André Horta --- filip-krovinovic
+Filip Krovinovic --- franco-cervi
+Franco Cervi --- rafa-ferreira-silva
+Rafa --- andre-carrillo
+André Carrillo --- erdal-rakip
+Erdal Rakip --- andre-almeida
+André Almeida --- martin-chrien
+Martin Chrien --- diogo-goncalves
+Keaton Parks --- joao-carvalho
+Diogo Gonçalves --- raul-jimenez
+João Carvalho --- jonas
+Raúl Jiménez --- gabriel-barbosa-almeida
+Jonas --- kostas-mitroglou
+Gabriel --- haris-seferovic
+Kostas Mitroglou --- andrija-zivkovic
+Haris Seferovic --- eduardo-salvio
+Andrija Zivkovic --- pizzi
+Eduardo Salvio --- oscar-benitez
+Pizzi --- chris-willock
+Óscar Benítez --- jose-gomes
+Mykyta Shevchenk --- mykyta-shevchenko
+Andriy Pyatov --- andriy-pyatov
+Yevgen Grytsenko --- yevgen-grytsenko
+Oleh Kudryk --- oleh-kudryk
+Mykola Matvyenko --- mykola-matvyenko
+Bogdan Butko --- bogdan-butko
+Sergey Krivtsov --- sergey-krivtsov
+Davit Khotcholav --- davit-khotcholava
+Maksim Malyshev --- maksim-malyshev
+Ivan Ordets --- ivan-ordets
+Ismaily --- ismaily
+Darijo Srna --- darijo-srna
+Yaroslav Rakitsk --- yaroslav-rakitskiy
+Márcio Azevedo --- marcio-azevedo
+Dodô --- dodo-cordeiro-dos-santos
+Sergiy Bolbat --- sergiy-bolbat
+Dmytro Grechyshk --- dmytro-grechyshkin
+Taras Stepanenko --- taras-stepanenko
+Fred --- fred-rodrigues-de-paula-santos
+Dentinho --- dentinho
+Bernard --- bernard
+Marlos --- marlos
+Alan Patrick --- alan-patrick
+Vyacheslav Tanko --- vyacheslav-tankovskyi
+Ivan Petryak --- ivan-petryak
+Yuri Glushchuk --- yuri-glushchuk
+Oleksandr Pikhal --- oleksandr-pikhalyonok
+Viktor Kovalenko --- viktor-kovalenko
+Olarenwaju Kayod --- olarenwaju-kayode
+Taison --- taison
+Facundo Ferreyra --- facundo-ferreyra
+Oleksandr Zubkov --- oleksandr-zubkov
+Artem Dudik --- artem-dudik
+Gustavo Blanco --- gustavo-blanco
+Tomás Vaclik --- tomas-vaclik
+Mirko Salvi --- mirko-salvi
+Germano Vailati --- germano-vailati
+Antonio Signori --- omar-gaber
+Omar Gaber --- leo-lacroix
+Leo Lacroix --- michael-lang
+Michael Lang --- marek-suchy
+Marek Suchy --- eder-balanta
+Éder Balanta --- blas-riveros
+Blás Riveros --- raoul-petretta
+Raoul Petretta --- pedro-pacheco
+Pedro Pacheco --- luca-zuffi
+Yves Kaiser --- renato-steffen
+Noah Okafor --- valentin-stocker
+Martin Liechti --- alexander-fransson
+Luca Zuffi --- geoffroy-serey-die
+Samuele Campo --- fabian-frei
+Renato Steffen --- mohammed-elyounoussi
+Valentin Stocker --- derek-kutesa
+Alexander Franss --- dominik-schmid
+Geoffroy Serey D --- kevin-bua
+Fabian Frei --- taulant-xhaka
+Mohamed Elyounou --- davide-calla
+Dereck Kutesa --- ricky-van-wolfswinkel
+Dominik Schmid --- andraz-sporar
+Kevin Bua --- dimitri-oberlin
+Taulant Xhaka --- albian-ajeti
+Davide Callà --- neftali-manzambi
+Ricky van Wolfsw --- cedric-itten
+Andraz Sporar --- afimico-pululu
+Craig Gordon --- craig-gordon
+Dorus de Vries --- dorus-de-vries
+Scott Bain --- ross-doohan
+Ross Doohan --- conor-hazard
+Conor Hazard --- jack-hendry
+Jack Hendry --- jozo-simunovic
+Jozo Simunovic --- cristian-gamboa
+Cristian Gamboa --- dedryck-boyata
+Dedryck Boyata --- mikael-lustig
+Mikael Lustig --- erik-sviatchenko
+Erik Sviatchenko --- marvin-compper
+Marvin Compper --- jamie-mccart
+Jamie McCart --- anthony-ralston
+Ewan Henderson --- kieran-tierney
+Anthony Ralston --- charly-musonda
+Kieran Tierney --- nir-bitton
+Charly Musonda --- patrick-roberts
+Kerr McInroy --- scott-brown
+Nir Bitton --- scott-sinclair
+Patrick Roberts --- stuart-armstrong
+Scott Brown --- jonny-hayes
+Scott Sinclair --- tomas-rogic
+Stuart Armstrong --- olivier-ntcham
+Jonny Hayes --- kundai-benyu
+Tomas Rogic --- kristoffer-ajer
+Olivier Ntcham --- callum-mcgregor
+Kundai Benyu --- liam-henderson
+Kristoffer Ajer --- kouassi-eboue
+Callum McGregor --- leigh-griffiths
+Liam Henderson --- moussa-dembele
+Eboue Kouassi --- odsonne-edouard
+Leigh Griffiths --- james-forrest
+Moussa Dembele --- calvin-miller
+Odsonne Edouard --- michael-johnston
+James Forrest --- jack-aitchison
+Fabio Coltorti --- fabio-coltorti
+Philipp Köhn --- philipp-kohn
+Yvon Mvogo --- yvon-mvogo
+Péter Gulácsi --- peter-gulacsi
+Bernardo --- bernardo-fernandes-da-silva-junior
+Willi Orban --- willi-orban
+Dayotchanculle U --- dayotchanculle-upamecano
+Ibrahima Konaté --- ibrahima-konate
+Lukas Klosterman --- lukas-klostermann
+Benno Schmitz --- benno-schmitz
+Marcel Halstenbe --- marcel-halstenberg
+Marcel Sabitzer --- marcel-sabitzer
+Naby Keita --- naby-keita
+Stefan Ilsanker --- stefan-ilsanker
+Dominik Kaiser --- dominik-kaiser
+Konrad Laimer --- konrad-laimer
+Diego Demme --- diego-demme
+Kevin Kampl --- kevin-kampl
+Yussuf Poulsen --- yussuf-poulsen
+Emil Forsberg --- emil-forsberg
+Timo Werner --- timo-werner
+Bruma --- bruma
+Ademola Lookman --- ademola-lookman
+Nicolas-Gerrit K --- nicolas-gerrit-kuhn
+Jean-Kévin Augu --- jean-kevin-augustin
+Federico Palacio --- federico-palacios
+André Onana --- andre-onana
+Benjamin van Lee --- benjamin-van-leer
+Norbert Alblas --- norbert-alblas
+Kostas Lamprou --- kostas-lamprou
+Joël Veltman --- joel-veltman
+Matthijs de Ligt --- matthijs-de-ligt
+Maximilian Wöbe --- maximilian-wober
+Davinson Sánche --- davinson-sanchez
+Daley Sinkgraven --- daley-sinkgraven
+Nick Viergever --- nick-viergever
+Luis Orejuela --- mitchell-dijks
+Nicolás Tagliaf --- rasmus-nissen-kristensen
+Mitchell Dijks --- donny-van-de-beek
+Leon Bergsma --- hakim-ziyech
+Rasmus Kristense --- robert-muric
+Mitchel Bakker --- lasse-schone
+Noa Lang --- frenkie-de-jong
+Donny van de Bee --- siem-de-jong
+Hakim Ziyech --- klaas-jan-huntelaar
+Carel Eiting --- amin-younes
+Robert Muric --- vaclav-cerny
+Lasse Schöne --- mateo-cassierra
+Frenkie de Jong --- kasper-dolberg
+Kenneth Vermeer --- kenneth-vermeer
+Justin Bijlow --- justin-bijlow
+Brad Jones --- brad-jones
+Ramón ten Hove --- ramon-ten-hove
+Elber Evora --- miquel-nelom
+Jordie Van Leeuw --- bart-nieuwkoop
+Miquel Nelom --- sven-van-beek
+Lutsharel Geertr --- jerry-st.-juste
+Bart Nieuwkoop --- ridgeciano-haps
+Sven van Beek --- jan-arie-van-der-heijden
+Jeremiah St. Jus --- kevin-diks
+Ridgeciano Haps --- renato-tapia
+Jan-Arie van der --- eric-botteghin
+Boyd Reith --- tyrell-malacia
+Noah Lewis --- karim-el-ahmadi
+Kevin Diks --- tonny-vilhena
+Renato Tapia --- sofyan-amrabat
+Eric Botteghin --- jens-toornstra
+Tyrell Malacia --- emil-hansson
+Karim El Ahmadi --- jordy-wehrmann
+Tonny Vilhena --- michiel-kramer
+Sofyan Amrabat --- jean-paul-boetius
+Jens Toornstra --- nicolai-jorgensen
+Emil Hansson --- sam-larsson
+Jordy Wehrmann --- bilal-basacikoglu
+Michiel Kramer --- steven-berghuis
+Jean-Paul Boëti --- robin-van-persie
+Nicolai Jørgens --- dylan-vente
+Sam Larsson --- cheick-toure-toure
+Roman Weidenfell --- roman-weidenfeller
+Dominik Reimann --- dominik-reimann
+Roman Bürki --- roman-burki
+Dan-Axel Zagadou --- dan-axel-zagadou
+Neven Subotic --- neven-subotic
+Marc Bartra --- marc-bartra
+Raphael Guerreir --- raphael-guerreiro
+Jeremy Toljan --- jeremy-toljan
+Manuel Akanji --- manuel-akanji
+Jan-Niklas Beste --- jan-niklas-beste
+Sokratis --- sokratis
+Lukasz Piszczek --- lukasz-piszczek
+Marcel Schmelzer --- marcel-schmelzer
+Ömer Toprak --- omer-toprak
+Erik Durm --- erik-durm
+Jadon Sancho --- nuri-sahin
+Nuri Sahin --- mario-gotze
+Mario Götze --- sebastian-rode
+Sebastian Rode --- mahmoud-dahoud
+Mahmoud Dahoud --- andre-schurrle
+André Schürrle --- christian-pulisic
+Christian Pulisi --- shinji-kagawa
+Shinji Kagawa --- gonzalo-castro-castro
+Gonzalo Castro --- julian-weigl
+Julian Weigl --- andriy-yarmolenko
+Andriy Yarmolenk --- marco-reus
+Marco Reus --- alexander-isak
+Alexander Isak --- maximilian-philipp
+Maximilian Phili --- jacob-bruun-larsen
+Jacob Bruun Lars --- michy-batshuayi
+Manuel Neuer --- manuel-neuer
+Tom Starke --- tom-starke
+Sven Ulreich --- sven-ulreich
+Christian Früch --- christian-fruchtl
+Leo Weinkauf --- niklas-sule
+Ron-Thorben Hoff --- mats-hummels
+Niklas Tarnat --- javi-martinez
+Resul Türkkales --- rafinha
+Theo Rieg --- juan-bernat
+Alexander Nitzl --- jerome-boateng
+Derrick Kohn --- felix-gotze
+Niklas Süle --- david-alaba
+Mats Hummels --- marco-friedl
+Javi Martínez --- thiago-alcantara
+Rafinha --- franck-ribery
+Juan Bernat --- arjen-robben
+Lukas Mai --- james-rodriguez
+Jérôme Boateng --- sebastian-rudy
+Felix Götze --- arturo-vidal
+David Alaba --- corentin-tolisso
+Marco Friedl --- niklas-dorsch
+Maximilian Franz --- joshua-kimmich
+Raphael Obermair --- timothy-tillman
+Marin Pudic --- renato-sanches
+Thiago Alcántar --- fabian-benko
+Franck Ribéry --- mario-crnicki
+Arjen Robben --- robert-lewandowski
+James Rodríguez --- sandro-wagner
+Meritan Shabani --- thomas-muller
+Sebastian Rudy --- kingsley-coman
+Arturo Vidal --- milos-pantovic
+Jan Oblak --- jan-oblak
+Axel Werner --- axel-werner
+Miguel San Romá --- diego-godin
+Alex Dos Santos --- filipe-luis
+Diego Godín --- stefan-savic
+Filipe Luís --- sime-vrsaljko
+Stefan Savic --- lucas-hernandez
+Sime Vrsaljko --- juanfran-torres-belen
+Lucas Hernández --- gimenez
+Juanfran --- sergi
+José Giménez --- thomas-partey
+Sergi González --- koke
+Carlos Isaac --- saul-niguez
+Antonio Montoro --- yannick-carrasco
+Thomas Partey --- augusto-fernandez
+Koke --- gabi
+Saúl Ñíguez --- nicolas-gaitan
+Yannick Carrasco --- vitolo
+Augusto Fernánd --- juan-moreno
+Gabi --- antoine-griezmann
+Nicolás Gaitán --- luciano-vietto
+Vitolo --- fernando-torres
+Juan Moreno --- angel-correa
+Keidi Bare --- diego-costa
+Roberto Olabe --- kevin-gameiro
+Sergio Rico --- sergio-rico
+David Soria --- david-soria
+Juan Soriano --- juan-soriano
+Lionel Carole --- lionel-carole
+Sébastien Corch --- sebastien-corchia
+Simon Kjaer --- simon-kjaer
+Clément Lenglet --- clement-lenglet
+Daniel Carriço --- daniel-carrico
+Guilherme Arana --- guilherme-arana
+Sergio Escudero --- sergio-escudero
+Miguel Layún --- miguel-layun
+Nico Pareja --- nico-pareja
+Gabriel Mercado --- gabriel-mercado
+Roque Mesa --- roque
+Walter Montoya --- walter-montoya
+Éver Banega --- ever-banega
+Ganso --- ganso
+Joaquín Correa --- joaquin-correa
+Johannes Geis --- johannes-geis
+Michael Krohn-De --- michael-krohn-dehli
+Guido Pizarro --- guido-pizarro
+Steven N'Zonzi --- steven-nzonzi
+Jesús Navas --- jesus-navas
+Pablo Sarabia --- pablo-sarabia
+Franco Vázquez --- franco-vazquez
+Borja Lasso --- borja-lasso
+Wissam Ben Yedde --- wissam-ben-yedder
+Luis Muriel --- luis-muriel
+Sandro Ramírez --- sandro-ramirez
+Nolito --- nolito
+Carlos Fernánde --- carlos-fernandez
+Kevin Trapp --- kevin-trapp
+Alphonse Areola --- alphonse-areola
+Remy Descamps --- remy-descamps
+Sebastien Cibois --- alec-georgen
+Alec Georgen --- kevin-rimane
+Kevin Rimane --- thiago-silva
+Thiago Silva --- presnel-kimpembe
+Presnel Kimpembe --- marquinhos
+Marquinhos --- thomas-meunier
+Thomas Meunier --- yuri-berchiche-izeta
+Yuri --- layvin-kurzawa
+Layvin Kurzawa --- dani-alves
+Dani Alves --- lorenzo-callegari
+Lorenzo Callegar --- marco-verratti
+Stanley N'Soki --- goncalo-guedes
+Yacine Adli --- thiago-motta
+Marco Verratti --- angel-di-maria
+Gonçalo Guedes --- giovani-lo-celso
+Thiago Motta --- lass-diarra
+Ángel Di María --- grzegorz-krychowiak
+Giovani Lo Celso --- hatem-ben-arfa
+Lass Diarra --- julian-draxler
+Grzegorz Krychow --- christopher-nkunku
+Hatem Ben Arfa --- adrien-rabiot
+Julian Draxler --- javier-pastore
+Christopher Nkun --- edinson-cavani
+Adrien Rabiot --- neymar
+Javier Pastore --- kylian-mbappe-lottin
+Álvaro Fernánd --- alvaro-fernandez-fernandez
+Danijel Subasic --- danijel-subasic
+Diego Benaglio --- diego-benaglio
+Seydou Sy --- seydou-sy
+Loic Badiashile --- loic-badiashile
+Dinis Almeida --- dinis-almeida
+Raphael Diarra --- raphael-diarra
+Terence Kongolo --- terence-kongolo
+Jemerson --- jemerson
+Jorge --- jorge
+Djibril Sidibe --- djibril-sidibe
+Julien Serrano --- pierre-daniel-nguinda-ndiffon
+Pierre-Daniel Ng --- andrea-raggi
+Andrea Raggi --- kamil-glik
+Kamil Glik --- kevin-ndoram
+Kevin N'Doram --- almamy-toure
+Almamy Touré --- fabinho-tavares
+Romain Faivre --- rachid-ghezzal
+Fabinho --- joao-moutinho
+Rachid Ghezzal --- youri-tielemans
+João Moutinho --- soualiho-meite
+Youri Tielemans --- rony-lopes
+Soualiho Meité --- boschilia
+Rony Lopes --- thomas-lemar
+Gabriel Boschili --- adama-traore-traore
+Thomas Lemar --- lacina-traore
+Adama Traoré --- falcao
+Lacina Traoré --- stevan-jovetic
+Falcao --- guido-carrillo
+Stevan Jovetic --- keita
+Guido Carrillo --- adama-diakhaby
+Keita --- jordi-mboula
+Adama Diakhaby --- moussa-sylla
+Gianluigi Buffon --- gianluigi-buffon
+Carlo Pinsoglio --- carlo-pinsoglio
+Wojciech Szczesn --- wojciech-szczesny
+Mattia Del Faver --- mattia-del-favero
+Leonardo Loria --- leonardo-loria
+Mattia De Scigli --- mattia-de-sciglio
+Giorgio Chiellin --- giorgio-chiellini
+Medhi Benatia --- medhi-benatia
+Alex Sandro --- alex-sandro
+Andrea Barzagli --- andrea-barzagli
+Benedikt Höwede --- benedikt-howedes
+Daniele Rugani --- daniele-rugani
+Stephan Lichtste --- stephan-lichtsteiner
+Leandro Fernande --- miralem-pjanic
+Miralem Pjanic --- sami-khedira
+Sami Khedira --- juan-cuadrado
+Juan Cuadrado --- claudio-marchisio
+Claudio Marchisi --- douglas-costa
+Douglas Costa --- blaise-matuidi
+Blaise Matuidi --- marko-pjaca
+Marko Pjaca --- kwadwo-asamoah
+Kwadwo Asamoah --- stefano-sturaro
+Stefano Sturaro --- rodrigo-bentancur
+Rodrigo Bentancu --- ferdinando-del-sole
+Leonardo Merio --- gonzalo-higuain
+Ferdinando Del S --- moise-kean
+Simone Muratore --- paulo-dybala
+Fabrizio Caligar --- mario-mandzukic
+Gonzalo Higuaín --- federico-bernardeschi
+Alisson --- alisson
+Andrea Romagnoli --- andrea-romagnoli
+Bogdan Lobont --- bogdan-lobont
+Lukasz Skorupski --- lukasz-skorupski
+Luca Pellegrini --- luca-pellegrini
+Jonathan Silva --- jonathan-silva
+Juan Jesus --- juan-jesus
+Aleksandar Kolar --- aleksandar-kolarov
+Elio Capradossi --- elio-capradossi
+Héctor Moreno --- hector-moreno
+Federico Fazio --- federico-fazio
+Abdullahi Nura --- abdullahi-nura
+Bruno Peres --- bruno-peres
+Rick Karsdorp --- rick-karsdorp
+Stefano Ciavatti --- kostas-manolas
+Kostas Manolas --- leandro-castan
+Leandro Castán --- radja-nainggolan
+Devid Eugene Bou --- kevin-strootman
+Radja Nainggolan --- lorenzo-pellegrini
+Kevin Strootman --- daniele-de-rossi
+Lorenzo Pellegri --- cengiz-under
+Daniele De Rossi --- maxime-gonalons
+Cengiz Ünder --- alessandro-florenzi
+Maxime Gonalons --- gerson-santos-da-silva
+Alessandro Flore --- diego-perotti
+Gerson --- edin-dzeko
+Lorenzo Valeau --- patrik-schick
+Mirko Antonucci --- gregoire-defrel
+Alessio Riccardi --- marco-tumminello
+Andrea Marcucci --- stephan-el-shaarawy
+Thomas Strakosha --- thomas-strakosha
+Federico Marchet --- federico-marchetti
+Guido Guerrieri --- guido-guerrieri
+Ivan Vargic --- ivan-vargic
+Stefan de Vrij --- stefan-de-vrij
+Patric --- patric
+Jordan Lukaku --- jordan-lukaku
+Dusan Basta --- dusan-basta
+Wallace --- wallace-fortuna-dos-santos
+Bastos --- bastos
+Martín Cáceres --- martin-caceres
+Stefan Radu --- stefan-radu
+Luiz Felipe --- luiz-felipe-ramos-marchi
+Nicolò Armini --- mauricio-dos-santos-nascimento
+Mauricio --- adam-marusic
+Adam Marusic --- lucas-leiva
+Lucas Leiva --- felipe-anderson
+Felipe Anderson --- luca-crecco
+Luca Crecco --- marco-parolo
+Marco Parolo --- luis-alberto
+Luis Alberto --- senad-lulic
+Senad Lulic --- sergej-milinkovic-savic
+Sergej Milinkovi --- bruno-jordao
+Alessio Miceli --- christopher-oikonomidis
+Bruno Jordao --- davide-di-gennaro
+Christopher Ikon --- alessandro-murgia
+Davide Di Gennar --- abukar-mohamed
+Alessandro Murgi --- nani
+Abukar Mohamed --- filip-djordjevic
+Nani --- ricardo-kishna
+Filip Djordjevic --- keita
+Ricardo Kishna --- ciro-immobile
+Keita --- felipe-caicedo
+Ciro Immobile --- simone-palombi
+Felipe Caicedo --- pedro-neto
+Simone Palombi --- brayan-perea
+Pedro Neto --- cristiano-lombardi
+Brayan Perea --- alessandro-rossi
+Rafael Cabral --- rafael-cabral
+Luigi Sepe --- luigi-sepe
+José Reina --- jose-reina
+Mário Rui --- mario-rui
+Christian Maggio --- christian-maggio
+Micheal Scarf --- hrvoje-milic
+Hrvoje Milic --- vlad-chiriches
+Vlad Chiriches --- elseid-hysaj
+Elseid Hysaj --- kalidou-koulibaly
+Kalidou Koulibal --- faouzi-ghoulam
+Faouzi Ghoulam --- raul-albiol
+Raúl Albiol --- lorenzo-tonelli
+Lorenzo Tonelli --- leandrinho-do-nascimento
+Leandrinho --- allan
+Allan --- zinedine-machach
+Zinedine Machach --- jorginho
+Jorginho --- emanuele-giaccherini
+Emanuele Giacche --- marek-hamsik
+Marek Hamsik --- piotr-zielinski
+Piotr Zielinski --- marko-rog
+Marko Rog --- adam-ounas
+Adam Ounas --- amadou-diawara
+Amadou Diawara --- jose-callejon
+José Callejón --- dries-mertens
+Dries Mertens --- lorenzo-insigne
+Lorenzo Insigne --- alessio-zerbin
+Alessio Zerbin --- arkadiusz-milik
+Michele Cerofoli --- marco-sportiello
+Simone Ghidotti --- bartlomiej-dragowski
+Marco Sportiello --- vincent-laurini
+Bartlomiej Drago --- cristiano-biraghi
+Vincent Laurini --- vitor-hugo-franchescoli-de-souza
+Cristiano Biragh --- nikola-milenkovic
+Vitor Hugo --- davide-astori
+Nikola Milenkovi --- maximiliano-olivera
+Davide Astori --- german-pezzella
+Maximiliano Oliv --- bruno-gaspar
+Germán Pezzella --- milan-badelj
+Luca Ranieri --- carlos-sanchez
+Riccardo Baroni --- bryan-dabo
+Petko Hristov --- riccardo-saponara
+Bruno Gaspar --- valentin-eysseric
+Joshua Pérez --- ianis-hagi
+Milan Badelj --- matias-fernandez
+Carlos Sánchez --- jordan-veretout
+Bryan Dabo --- sebastian-cristoforo
+Riccardo Saponar --- marco-benassi
+Valentin Eysseri --- andres-schetino
+Ianis Hagi --- gil-dias
+Matías Fernánd --- jaime-baez
+Jordan Veretout --- ante-rebic
+Sebastián Crist --- giovanni-simeone
+Marco Benassi --- federico-chiesa
+Andrés Schetino --- simone-lo-faso
+Fabio Maistro --- khouma-babacar
+Gil Dias --- cyril-thereau
+Mile Svilar --- mile-svilar
+Julio César --- julio-cesar
+Paulo Lopes --- paulo-lopes
+Bruno Varela --- bruno-varela
+Fábio Duarte --- lisandro-lopez-lopez
+Lisandro López --- alejandro-grimaldo
+Alejandro Grimal --- luisao
+Luisão --- douglas-pereira-dos-santos
+Douglas --- branimir-kalaica
+Branimir Kalaica --- eliseu
+Eliseu --- jardel
+Jardel --- ruben-dias
+Rúben Dias --- aurelio-buta
+Aurélio Buta --- lubomir-fejsa
+Lubomir Fejsa --- filipe-augusto
+Filipe Augusto --- andreas-samaris
+Andreas Samaris --- andre-horta
+André Horta --- filip-krovinovic
+Filip Krovinovic --- franco-cervi
+Franco Cervi --- rafa-ferreira-silva
+Rafa --- andre-carrillo
+André Carrillo --- erdal-rakip
+Erdal Rakip --- andre-almeida
+André Almeida --- martin-chrien
+Martin Chrien --- diogo-goncalves
+Keaton Parks --- joao-carvalho
+Diogo Gonçalves --- raul-jimenez
+João Carvalho --- jonas
+Raúl Jiménez --- gabriel-barbosa-almeida
+Jonas --- kostas-mitroglou
+Gabriel --- haris-seferovic
+Kostas Mitroglou --- andrija-zivkovic
+Haris Seferovic --- eduardo-salvio
+Andrija Zivkovic --- pizzi
+Eduardo Salvio --- oscar-benitez
+Pizzi --- chris-willock
+Óscar Benítez --- jose-gomes
+Mykyta Shevchenk --- mykyta-shevchenko
+Andriy Pyatov --- andriy-pyatov
+Yevgen Grytsenko --- yevgen-grytsenko
+Oleh Kudryk --- oleh-kudryk
+Mykola Matvyenko --- mykola-matvyenko
+Bogdan Butko --- bogdan-butko
+Sergey Krivtsov --- sergey-krivtsov
+Davit Khotcholav --- davit-khotcholava
+Maksim Malyshev --- maksim-malyshev
+Ivan Ordets --- ivan-ordets
+Ismaily --- ismaily
+Darijo Srna --- darijo-srna
+Yaroslav Rakitsk --- yaroslav-rakitskiy
+Márcio Azevedo --- marcio-azevedo
+Dodô --- dodo-cordeiro-dos-santos
+Sergiy Bolbat --- sergiy-bolbat
+Dmytro Grechyshk --- dmytro-grechyshkin
+Taras Stepanenko --- taras-stepanenko
+Fred --- fred-rodrigues-de-paula-santos
+Dentinho --- dentinho
+Bernard --- bernard
+Marlos --- marlos
+Alan Patrick --- alan-patrick
+Vyacheslav Tanko --- vyacheslav-tankovskyi
+Ivan Petryak --- ivan-petryak
+Yuri Glushchuk --- yuri-glushchuk
+Oleksandr Pikhal --- oleksandr-pikhalyonok
+Viktor Kovalenko --- viktor-kovalenko
+Olarenwaju Kayod --- olarenwaju-kayode
+Taison --- taison
+Facundo Ferreyra --- facundo-ferreyra
+Oleksandr Zubkov --- oleksandr-zubkov
+Artem Dudik --- artem-dudik
+Gustavo Blanco --- gustavo-blanco
+Tomás Vaclik --- tomas-vaclik
+Mirko Salvi --- mirko-salvi
+Germano Vailati --- germano-vailati
+Antonio Signori --- omar-gaber
+Omar Gaber --- leo-lacroix
+Leo Lacroix --- michael-lang
+Michael Lang --- marek-suchy
+Marek Suchy --- eder-balanta
+Éder Balanta --- blas-riveros
+Blás Riveros --- raoul-petretta
+Raoul Petretta --- pedro-pacheco
+Pedro Pacheco --- luca-zuffi
+Yves Kaiser --- renato-steffen
+Noah Okafor --- valentin-stocker
+Martin Liechti --- alexander-fransson
+Luca Zuffi --- geoffroy-serey-die
+Samuele Campo --- fabian-frei
+Renato Steffen --- mohammed-elyounoussi
+Valentin Stocker --- derek-kutesa
+Alexander Franss --- dominik-schmid
+Geoffroy Serey D --- kevin-bua
+Fabian Frei --- taulant-xhaka
+Mohamed Elyounou --- davide-calla
+Dereck Kutesa --- ricky-van-wolfswinkel
+Dominik Schmid --- andraz-sporar
+Kevin Bua --- dimitri-oberlin
+Taulant Xhaka --- albian-ajeti
+Davide Callà --- neftali-manzambi
+Ricky van Wolfsw --- cedric-itten
+Andraz Sporar --- afimico-pululu
+Craig Gordon --- craig-gordon
+Dorus de Vries --- dorus-de-vries
+Scott Bain --- ross-doohan
+Ross Doohan --- conor-hazard
+Conor Hazard --- jack-hendry
+Jack Hendry --- jozo-simunovic
+Jozo Simunovic --- cristian-gamboa
+Cristian Gamboa --- dedryck-boyata
+Dedryck Boyata --- mikael-lustig
+Mikael Lustig --- erik-sviatchenko
+Erik Sviatchenko --- marvin-compper
+Marvin Compper --- jamie-mccart
+Jamie McCart --- anthony-ralston
+Ewan Henderson --- kieran-tierney
+Anthony Ralston --- charly-musonda
+Kieran Tierney --- nir-bitton
+Charly Musonda --- patrick-roberts
+Kerr McInroy --- scott-brown
+Nir Bitton --- scott-sinclair
+Patrick Roberts --- stuart-armstrong
+Scott Brown --- jonny-hayes
+Scott Sinclair --- tomas-rogic
+Stuart Armstrong --- olivier-ntcham
+Jonny Hayes --- kundai-benyu
+Tomas Rogic --- kristoffer-ajer
+Olivier Ntcham --- callum-mcgregor
+Kundai Benyu --- liam-henderson
+Kristoffer Ajer --- kouassi-eboue
+Callum McGregor --- leigh-griffiths
+Liam Henderson --- moussa-dembele
+Eboue Kouassi --- odsonne-edouard
+Leigh Griffiths --- james-forrest
+Moussa Dembele --- calvin-miller
+Odsonne Edouard --- michael-johnston
+James Forrest --- jack-aitchison
+Fabio Coltorti --- fabio-coltorti
+Philipp Köhn --- philipp-kohn
+Yvon Mvogo --- yvon-mvogo
+Péter Gulácsi --- peter-gulacsi
+Bernardo --- bernardo-fernandes-da-silva-junior
+Willi Orban --- willi-orban
+Dayotchanculle U --- dayotchanculle-upamecano
+Ibrahima Konaté --- ibrahima-konate
+Lukas Klosterman --- lukas-klostermann
+Benno Schmitz --- benno-schmitz
+Marcel Halstenbe --- marcel-halstenberg
+Marcel Sabitzer --- marcel-sabitzer
+Naby Keita --- naby-keita
+Stefan Ilsanker --- stefan-ilsanker
+Dominik Kaiser --- dominik-kaiser
+Konrad Laimer --- konrad-laimer
+Diego Demme --- diego-demme
+Kevin Kampl --- kevin-kampl
+Yussuf Poulsen --- yussuf-poulsen
+Emil Forsberg --- emil-forsberg
+Timo Werner --- timo-werner
+Bruma --- bruma
+Ademola Lookman --- ademola-lookman
+Nicolas-Gerrit K --- nicolas-gerrit-kuhn
+Jean-Kévin Augu --- jean-kevin-augustin
+Federico Palacio --- federico-palacios
+André Onana --- andre-onana
+Benjamin van Lee --- benjamin-van-leer
+Norbert Alblas --- norbert-alblas
+Kostas Lamprou --- kostas-lamprou
+Joël Veltman --- joel-veltman
+Matthijs de Ligt --- matthijs-de-ligt
+Maximilian Wöbe --- maximilian-wober
+Davinson Sánche --- davinson-sanchez
+Daley Sinkgraven --- daley-sinkgraven
+Nick Viergever --- nick-viergever
+Luis Orejuela --- mitchell-dijks
+Nicolás Tagliaf --- rasmus-nissen-kristensen
+Mitchell Dijks --- donny-van-de-beek
+Leon Bergsma --- hakim-ziyech
+Rasmus Kristense --- robert-muric
+Mitchel Bakker --- lasse-schone
+Noa Lang --- frenkie-de-jong
+Donny van de Bee --- siem-de-jong
+Hakim Ziyech --- klaas-jan-huntelaar
+Carel Eiting --- amin-younes
+Robert Muric --- vaclav-cerny
+Lasse Schöne --- mateo-cassierra
+Frenkie de Jong --- kasper-dolberg
+Kenneth Vermeer --- kenneth-vermeer
+Justin Bijlow --- justin-bijlow
+Brad Jones --- brad-jones
+Ramón ten Hove --- ramon-ten-hove
+Elber Evora --- miquel-nelom
+Jordie Van Leeuw --- bart-nieuwkoop
+Miquel Nelom --- sven-van-beek
+Lutsharel Geertr --- jerry-st.-juste
+Bart Nieuwkoop --- ridgeciano-haps
+Sven van Beek --- jan-arie-van-der-heijden
+Jeremiah St. Jus --- kevin-diks
+Ridgeciano Haps --- renato-tapia
+Jan-Arie van der --- eric-botteghin
+Boyd Reith --- tyrell-malacia
+Noah Lewis --- karim-el-ahmadi
+Kevin Diks --- tonny-vilhena
+Renato Tapia --- sofyan-amrabat
+Eric Botteghin --- jens-toornstra
+Tyrell Malacia --- emil-hansson
+Karim El Ahmadi --- jordy-wehrmann
+Tonny Vilhena --- michiel-kramer
+Sofyan Amrabat --- jean-paul-boetius
+Jens Toornstra --- nicolai-jorgensen
+Emil Hansson --- sam-larsson
+Jordy Wehrmann --- bilal-basacikoglu
+Michiel Kramer --- steven-berghuis
+Jean-Paul Boëti --- robin-van-persie
+Nicolai Jørgens --- dylan-vente
+Sam Larsson --- cheick-toure-toure
